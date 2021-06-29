@@ -155,3 +155,160 @@ Level flags = 0
 Total triangle count: 21987
 Writing c:\users\knigh\desktop\maps\tf2 maps\xobile\cactuscanyon\pl_cactuscanyon_a1.bsp
 48 seconds elapsed
+
+
+
+materialPath: D:\Program Files (x86)\Steam\steamapps\common\Team Fortress 2\tf\materials
+Loading C:\Users\knigh\Desktop\Maps\TF2 Maps\xobile\Cactuscanyon\pl_cactuscanyon_a1.vmf
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+Patching WVT material: maps/pl_cactuscanyon_a1/nature/blendgroundtogravel005_wvt_patch
+Patching WVT material: maps/pl_cactuscanyon_a1/nature/blendgroundtoconcrete003_wvt_patch
+Patching WVT material: maps/pl_cactuscanyon_a1/nature/blendgroundtograss005_wvt_patch
+Patching WVT material: maps/pl_cactuscanyon_a1/nature/blendgroundtogravel004_grass_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...WARNING: areaportal entity 812 (brush 20153) touches > 2 areas
+done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 430 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing C:\Users\knigh\Desktop\Maps\TF2 Maps\xobile\Cactuscanyon\pl_cactuscanyon_a1.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_badlands_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_badlands_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Found a displacement edge abutting multiple other edges.
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+
+qhull precision error: Only 4 facets remain.  Can not merge another
+pair.  The convexity constraints may be too strong.  Reduce the
+magnitude of 'Cn' or increase the magnitude of 'An'.  For example,
+try 'C-0.001' instead of 'C-0.1' or 'A-0.999' instead of 'A-0.9'.
+done (1) (921446 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 8267 texinfos to 3884
+Reduced 98 texdatas to 93 (2194 bytes to 1985)
+Writing C:\Users\knigh\Desktop\Maps\TF2 Maps\xobile\Cactuscanyon\pl_cactuscanyon_a1.bsp
+MSG_FILEWRITE - Filesystem was asked to write to 'C:\Users\knigh\Desktop\Maps\TF2 Maps\xobile\Cactuscanyon\pl_cactuscanyon_a1.bsp', but we don't own that location. Allowing.
+Wrote ZIP buffer, estimated size 1804783, actual size 1799343
+7 seconds elapsed
+
+
+
+28 threads
+reading c:\users\knigh\desktop\maps\tf2 maps\xobile\cactuscanyon\pl_cactuscanyon_a1.bsp
+reading c:\users\knigh\desktop\maps\tf2 maps\xobile\cactuscanyon\pl_cactuscanyon_a1.prt
+1367 portalclusters
+3585 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Optimized: 2422 visible clusters (0.73%)
+Total clusters visible: 331491
+Average clusters visible: 242
+Building PAS...
+Average clusters audible: 597
+visdatasize:221785  compressed from 481184
+writing c:\users\knigh\desktop\maps\tf2 maps\xobile\cactuscanyon\pl_cactuscanyon_a1.bsp
+MSG_FILEWRITE - Filesystem was asked to write to 'c:\users\knigh\desktop\maps\tf2 maps\xobile\cactuscanyon\pl_cactuscanyon_a1.bsp', but we don't own that location. Allowing.
+29 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[56 texlights parsed from 'lights.rad']
+
+Loading c:\users\knigh\desktop\maps\tf2 maps\xobile\cactuscanyon\pl_cactuscanyon_a1.bsp
+8332 faces
+3 degenerate faces
+2921858 square feet [420747584.00 square inches]
+1027 Displacements
+327724 Square Feet [47192380.00 Square Inches]
+8329 patches before subdivision
+166313 patches after subdivision
+118 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 11431566, max 769
+transfer lists:  87.2 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(1114510, 603448, 427127)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(164410, 62863, 38011)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #3 added RGB(29961, 8659, 4300)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #4 added RGB(6464, 1492, 582)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #5 added RGB(1608, 303, 90)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #6 added RGB(446, 69, 15)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #7 added RGB(135, 17, 3)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #8 added RGB(44, 4, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #9 added RGB(15, 1, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #10 added RGB(6, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #11 added RGB(2, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #12 added RGB(1, 0, 0)
+Build Patch/Sample Hash Table(s).....Done<0.0475 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+Computing detail prop lighting : 0...1...2...3...4...5...6...7...8...9...10
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                 122/1024         5856/49152    (11.9%) 
+brushes               2624/8192        31488/98304    (32.0%) 
+brushsides           19115/65536      152920/524288   (29.2%) 
+planes               16012/65536      320240/1310720  (24.4%) 
+vertexes             15477/65536      185724/786432   (23.6%) 
+nodes                 4299/65536      137568/2097152  ( 6.6%) 
+texinfos              3884/12288      279648/884736   (31.6%) 
+texdata                 93/2048         2976/65536    ( 4.5%) 
+dispinfos             1027/0          180752/0        ( 0.0%) 
+disp_verts           25675/0          513500/0        ( 0.0%) 
+disp_tris            32864/0           65728/0        ( 0.0%) 
+disp_lmsamples     1128648/0         1128648/0        ( 0.0%) 
+faces                 8332/65536      466592/3670016  (12.7%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces             6165/65536      345240/3670016  ( 9.4%) 
+leaves                4422/65536      141504/2097152  ( 6.7%) 
+leaffaces             8940/65536       17880/131072   (13.6%) 
+leafbrushes           5537/65536       11074/131072   ( 8.4%) 
+areas                   52/256           416/2048     (20.3%) 
+surfedges            63371/512000     253484/2048000  (12.4%) 
+edges                41192/256000     164768/1024000  (16.1%) 
+LDR worldlights        118/8192        10384/720896   ( 1.4%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips            673/32768        6730/327680   ( 2.1%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices         11043/65536       22086/131072   (16.9%) 
+cubemapsamples          16/1024          256/16384    ( 1.6%) 
+overlays                89/512         31328/180224   (17.4%) 
+LDR lightdata         [variable]    11731164/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]      221785/16777216 ( 1.3%) 
+entdata               [variable]      289094/393216   (73.5%) 
+LDR ambient table     4422/65536       17688/262144   ( 6.7%) 
+HDR ambient table     4422/65536       17688/262144   ( 6.7%) 
+LDR leaf ambient     22239/65536      622692/1835008  (33.9%) 
+HDR leaf ambient      4422/65536      123816/1835008  ( 6.7%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/5144     ( 0.0%) 
+dtl prp lght          [variable]           1/4        (25.0%) 
+HDR dtl prp lght      [variable]           1/4        (25.0%) 
+static props          [variable]           1/48670    ( 0.0%) 
+pakfile               [variable]     1799343/0        ( 0.0%) 
+physics               [variable]      921446/4194304  (22.0%) 
+physics terrain       [variable]       75881/1048576  ( 7.2%) 
+
+Level flags = 0
+
+Total triangle count: 22055
+Writing c:\users\knigh\desktop\maps\tf2 maps\xobile\cactuscanyon\pl_cactuscanyon_a1.bsp
+48 seconds elapsed
